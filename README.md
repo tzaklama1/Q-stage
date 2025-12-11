@@ -206,9 +206,9 @@ If you use this code or ideas from Q-stage in academic work, please consider cit
 ```bibtex
 @article{Zaklama2025AttentionQStage,
   title   = {Attention-Based Foundation Model for Quantum States},
-  author  = {Zaklama, Timothy},
+  author  = {Zaklama, Timothy, Guerci, Daniele, and Fu, Liang},
   year    = {2025},
-  journal = {in preparation}
+  journal = {arXiv:2512.XXXXX}
 }
 ```
 
