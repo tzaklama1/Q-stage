@@ -227,6 +227,10 @@ If you use this code or ideas from Q-stage in academic work, please consider cit
 
 ## License
 
+This project is licensed under the **Apache License 2.0**.
+
+See the [LICENSE](LICENSE) file in the root of this repository for the full license text.
+
 
 
 </details>
